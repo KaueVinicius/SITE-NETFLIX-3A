@@ -7,7 +7,7 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    cor: var(--branco-principal);
+    color: var(--branco-principal);
 }
 
 * {
